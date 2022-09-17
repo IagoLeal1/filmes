@@ -101,12 +101,12 @@ section ul li:hover{
 
 .filmes-list img {
     width: 90px;
-    border-radius: 8px;
+    border-radius: 9px;
 }
 
 .series-list img{
     width: 90px;
-    border-radius: 8px;
+    border-radius: 9px;
 }
 
 /* animation */
