@@ -106,7 +106,7 @@ section ul li:hover{
 
 .series-list img{
     width: 90px;
-    border: 1px solid #443E54;
+    border-radius: 8px;
 }
 
 /* animation */
